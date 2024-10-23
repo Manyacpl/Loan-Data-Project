@@ -13,8 +13,8 @@ This project focuses on preparing loan data from a U.S.-based bank for a credit 
 The preprocessing requirements and guidelines, including detailed variable descriptions, transformations, and final variable formats, are documented in the `loan-data-dictionary.xlsx` file. This file provides an overview of the data transformations applied and the final structure of the dataset.
 
 ## Files
-- **A-Loan-Data-Example-with-NumPy-Template.ipynb**: The main notebook for data preprocessing.
+- **A-Loan-Data-with-NumPy.ipynb**: The main notebook for data preprocessing.
 - **loan-data-dictionary.xlsx**: Documentation of the original variables, applied transformations, and final processed variables.
 - **loan-data-preprocessed.csv**: The output file containing the cleaned and processed dataset.
-- **loan-data.xlsx**: The original, uncleaned input dataset containing raw loan data.
-- **EUR-USD.xlsx**: The exchange rate file providing the USD to EUR conversion rates for the relevant time period.
+- **loan-data.csv**: The original, uncleaned input dataset containing raw loan data.
+- **EUR-USD.csv**: The exchange rate file providing the USD to EUR conversion rates for the relevant time period.
